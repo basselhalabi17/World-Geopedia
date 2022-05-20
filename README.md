@@ -6,10 +6,6 @@ Frontend: HTML, CSS, React Bootstrap, Javascript, ReactJs
 Backend was written using: Nodejs
 
 
-How to run:
-	1.Open 2 terminals
-	2. In the first terminal, we will run the backend by going inside 
-	   the "server" directory, and write in terminal the command "node index.js"
-	3. In the second terminal, we will run the frontend by going inside
-	   the "client", and write in terminal the command "npm start"
-	4. The web application can be accessed on http://localhost:3000 in the browser
+How to run: Open 2 terminals and in the first terminal, run the server/backend by going inside the "server" directory, and write in terminal the command "node index.js" and in the second terminal, run the frontend/client by going inside the "client", and write in terminal the command "npm start"
+	
+The web application can be accessed on http://localhost:3000 in the browser

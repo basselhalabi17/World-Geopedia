@@ -1,4 +1,4 @@
-#World Geopedia
+# World Geopedia
 This is a World Geopeodia web application that has multiple feature such as view info about all countries, capitals, presidents and getting top countries in GDP, population, area among others
 
 Frontend: HTML, CSS, React Bootstrap, Javascript, ReactJs
